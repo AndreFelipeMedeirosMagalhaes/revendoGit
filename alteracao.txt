@@ -1,1 +1,1 @@
-        1 arquivo(s) movido(s).
+"nova conteudo em arquivo pos merge" 
